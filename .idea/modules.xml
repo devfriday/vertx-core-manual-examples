@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/00/vertx-starter-00.iml" filepath="$PROJECT_DIR$/00/vertx-starter-00.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01/vertx-starter-01.iml" filepath="$PROJECT_DIR$/01/vertx-starter-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02/vertx-starter-02.iml" filepath="$PROJECT_DIR$/02/vertx-starter-02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03/vertx-starter-03.iml" filepath="$PROJECT_DIR$/03/vertx-starter-03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04/vertx-starter-04.iml" filepath="$PROJECT_DIR$/04/vertx-starter-04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05/vertx-starter-05.iml" filepath="$PROJECT_DIR$/05/vertx-starter-05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06/vertx-starter-06.iml" filepath="$PROJECT_DIR$/06/vertx-starter-06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07/vertx-starter-07.iml" filepath="$PROJECT_DIR$/07/vertx-starter-07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08/vertx-starter-08.iml" filepath="$PROJECT_DIR$/08/vertx-starter-08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09/vertx-starter-09.iml" filepath="$PROJECT_DIR$/09/vertx-starter-09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10/vertx-starter-10.iml" filepath="$PROJECT_DIR$/10/vertx-starter-10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11/vertx-starter-11.iml" filepath="$PROJECT_DIR$/11/vertx-starter-11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12/vertx-starter-12.iml" filepath="$PROJECT_DIR$/12/vertx-starter-12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13/vertx-starter-13.iml" filepath="$PROJECT_DIR$/13/vertx-starter-13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14/vertx-starter-14.iml" filepath="$PROJECT_DIR$/14/vertx-starter-14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/15/vertx-starter-15.iml" filepath="$PROJECT_DIR$/15/vertx-starter-15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/16/vertx-starter-16.iml" filepath="$PROJECT_DIR$/16/vertx-starter-16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/17/vertx-starter-17.iml" filepath="$PROJECT_DIR$/17/vertx-starter-17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/18/vertx-starter-18.iml" filepath="$PROJECT_DIR$/18/vertx-starter-18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/19/vertx-starter-19.iml" filepath="$PROJECT_DIR$/19/vertx-starter-19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20/vertx-starter-20.iml" filepath="$PROJECT_DIR$/20/vertx-starter-20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vertx-starter-parent.iml" filepath="$PROJECT_DIR$/vertx-starter-parent.iml" />
+    </modules>
+  </component>
+</project>

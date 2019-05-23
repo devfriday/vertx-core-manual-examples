@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="vertx-starter-01" />
+        <module name="vertx-starter-16" />
+        <module name="vertx-starter-15" />
+        <module name="vertx-starter-14" />
+        <module name="vertx-starter-13" />
+        <module name="vertx-starter-12" />
+        <module name="vertx-starter-11" />
+        <module name="vertx-starter-10" />
+        <module name="vertx-starter-20" />
+        <module name="vertx-starter-00" />
+        <module name="vertx-starter-17" />
+        <module name="vertx-starter-18" />
+        <module name="vertx-starter-19" />
+        <module name="vertx-starter-09" />
+        <module name="vertx-starter-08" />
+        <module name="vertx-starter-07" />
+        <module name="vertx-starter-06" />
+        <module name="vertx-starter-05" />
+        <module name="vertx-starter-04" />
+        <module name="vertx-starter-03" />
+        <module name="vertx-starter-02" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="vertx-starter-00" target="1.8" />
+      <module name="vertx-starter-01" target="1.8" />
+      <module name="vertx-starter-02" target="1.7" />
+      <module name="vertx-starter-03" target="1.8" />
+      <module name="vertx-starter-04" target="1.8" />
+      <module name="vertx-starter-05" target="1.8" />
+      <module name="vertx-starter-06" target="1.8" />
+      <module name="vertx-starter-07" target="1.8" />
+      <module name="vertx-starter-08" target="1.8" />
+      <module name="vertx-starter-09" target="1.8" />
+      <module name="vertx-starter-10" target="1.8" />
+      <module name="vertx-starter-11" target="1.8" />
+      <module name="vertx-starter-12" target="1.8" />
+      <module name="vertx-starter-13" target="1.8" />
+      <module name="vertx-starter-14" target="1.8" />
+      <module name="vertx-starter-15" target="1.8" />
+      <module name="vertx-starter-16" target="1.8" />
+      <module name="vertx-starter-17" target="1.8" />
+      <module name="vertx-starter-18" target="1.8" />
+      <module name="vertx-starter-19" target="1.8" />
+      <module name="vertx-starter-20" target="1.8" />
+      <module name="vertx-starter-parent" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
